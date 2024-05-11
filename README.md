@@ -480,7 +480,7 @@
  
   * [GitHub.com Build software better, together](https://github.com) : 向其他人展示你的项目和与人协作的地方（为了更高效的使用它必须知道Git）
   * [Gitlab提供无限制的私有库，和无限制的组织](https://about.gitlab.com)
-  * [程序员能力矩阵](http://sijinjoseph.com/programmer-competency-matrix/) :  一篇用来了解我们作为程序员的水平的文章
+  * [程序员能力矩阵](http://www.sijinjoseph.com/programmer-competency-matrix/) :  一篇用来了解我们作为程序员的水平的文章
  
 <h1 id='competitive-programming'>编程比赛</h1>
 
